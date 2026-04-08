@@ -1,6 +1,6 @@
 import { motion, AnimatePresence } from "framer-motion";
 import { useCalendarStore } from "../../store/useCalendarStore";
-import { useCalendarGrid } from "../../hooks/useCalendarGrid";
+import { useCalendarGrid } from "../../hooks/useCalendarGrid.js";
 import { MONTH_CONFIG } from "../../config/months";
 
 import { CalendarHeader } from "./CalendarHeader";
