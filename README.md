@@ -31,7 +31,7 @@ Make sure you have Node.js and npm (or pnpm/yarn) installed on your machine.
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/smart-calendar.git](https://github.com/yourusername/smart-calendar.git)
+    git clone https://github.com/viralbhoi/smart-calendar.git
     ```
 2. Navigate into the directory:
 
